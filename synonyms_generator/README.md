@@ -77,7 +77,7 @@ optional arguments:
                         GloVe vector file path
 ```
 
-```
+
 
 ## License and Attribution
 
