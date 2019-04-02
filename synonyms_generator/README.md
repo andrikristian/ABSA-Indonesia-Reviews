@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 ./download_data.sh
 ```
 
-## Word Arithmetic
+## Word Arithmetic (Synonyms_Generator)
 
 `word_arithmetic.py` allows you to write simple +/- arithmetic operations using words to find the closest approximated resulting word from the given word expression. Math operations are applied in the embedding space and a K-nearest-neighbor search is used to display the `K` words closest to the result of the algebraic transformation.
 
