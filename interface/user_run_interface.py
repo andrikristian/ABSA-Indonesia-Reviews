@@ -3,12 +3,8 @@ from sentiment_analysis_class import Product
 from User_Setting_Interface import *
 import pandas as pd
 
-print("CREATING PRODUCT 1 *************************************************************")
 product_1 = Product(reviews_link_product_1, list_aspect_1, list_aspect_2, list_aspect_3, None, None, None)
-print(product_1.translated_review_texts)
-print("CREATING PRODUCT 2 *************************************************************")
 product_2 = Product(reviews_link_product_2, list_aspect_1, list_aspect_2, list_aspect_3, product_1.ls_aspect_terms_1, product_1.ls_aspect_terms_2, product_1.ls_aspect_terms_3)
-print("CREATING PRODUCT 3 *************************************************************")
 product_3 = Product(reviews_link_product_3, list_aspect_1, list_aspect_2, list_aspect_3, product_1.ls_aspect_terms_1, product_1.ls_aspect_terms_2, product_1.ls_aspect_terms_3)
 
 print('Product 1: \n')
