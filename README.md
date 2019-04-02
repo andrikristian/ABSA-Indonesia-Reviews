@@ -1,5 +1,6 @@
 # ABSA-Indonesia-Reviews
-I did this as part of my Final Year Project in NUS
+I did this as part of my Final Year Project. More information can be found in the link below:
+https://drive.google.com/file/d/1vTXVCRQnDZkUXfKf6C7qScrh5_OW4QIO/view?usp=sharing
 
 
 ## ABSA
