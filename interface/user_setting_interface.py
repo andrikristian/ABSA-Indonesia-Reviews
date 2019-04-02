@@ -19,7 +19,5 @@ GOOGLE_APPLICATION_CREDENTIALS_path = '/Users/AndriHartantoKristian/Desktop/goog
 ABSA_path = '/Users/AndriHartantoKristian/Desktop/FYP/Code/ABSA/'
 synonyms_generator_path = '/Users/AndriHartantoKristian/Desktop/FYP/Code/Synonyms_Generator/'
 
-#sentiment model hyperparameter tuning
+#choice of deep learning sentiment model
 input_model_name = 'aoa' #options: atae_lstm, ian, memnet, aoa, lstm, ram, td_lstm, cabasc, tnet_lf
-
-
