@@ -6,7 +6,7 @@ This is where the user needs to 'run' the whole system from.
 ## User Setting Interface
 
 This is where the user needs to specify his or her inputs:
-(The first 3 inputs below concern aspect of the products to be compared)
+(The first 3 inputs below concern the attributes of the products to be compared)
 - Review Links (in Bahasa Indonesia)
 - Product Names
 - Aspect Terms
