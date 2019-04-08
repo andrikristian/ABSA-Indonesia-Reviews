@@ -1,5 +1,6 @@
 # ABSA-PyTorch
 ## Taken from: https://github.com/songyouwei/ABSA-PyTorch
+## Some edits done to fit the purpose of this FYP
 > Aspect Based Sentiment Analysis, PyTorch Implementations.
 >
 > 基于方面的情感分析，使用PyTorch实现。
